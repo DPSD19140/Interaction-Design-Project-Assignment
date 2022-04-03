@@ -5,6 +5,7 @@
 ### GitHub Personal Profile: https://github.com/DPSD19140
 
 # Introduction
+Human Well Being - Emotion & Communication. Motive and Assist Users to Convey and Communicate Emotions with Tangible Objects
 
 # Summary
 BRIEF: Θα πρέπει μέσα από το design μας να βοηθήσουμε τα αυτοεξυπηρετούμενα άτομα 3ης ηλικίας, να μειώσουν τα λάθη στην φαρμακευτική τους αγωγή, βοηθώντας με αυτόν τον τρόπο στην υπενθύμιση κατάποσης των φαρμάκων τους, αλλά και στην διατήρηση της αυτονομίας τους.
