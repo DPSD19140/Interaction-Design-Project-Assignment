@@ -1,8 +1,8 @@
 # Lesson: Interaction Design
 
-### First and Last Name: Sofia Pantelopoulou 
-### University Registration Number: dpsd19140 
-### GitHub Personal Profile: https://github.com/DPSD19140
+### First and Last Name: Sofia Pantelopoulou, Stathenia Paraskeuopoulou, Zoi Galani 
+### University Registration Number: dpsd19140, dpsd19103, dpsd19014
+### GitHub Personal Profile: https://github.com/DPSD19140 , https://github.com/Stathenia , https://github.com/ZoiGalanidpsd19014
 
 # Introduction
 Human Well Being - Emotion & Communication. Motive and Assist Users to Convey and Communicate Emotions with Tangible Objects
