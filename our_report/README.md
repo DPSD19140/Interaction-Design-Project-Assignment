@@ -41,9 +41,13 @@ Target Group: Αυτοεξυπηρετούμενοι ηλικιωμένοι, π�
 
 
 
+
 Activity:
 Ποιό ήταν το πρόβλημα;
 Το πρόβλημα ήταν ότι τα άτομα της 3ης ηλικίας λόγω της σωματικής τους κατάστασης η οποία με την πάροδο του χρόνου μειώνεται ως προς την αποδοτικότητα της, με συνταγή γιατρού χρειάζεται να παίρνουν μια φαρμακευτική αγωγή σε συγκεκριμένο χρονικό διάστημα στο πλαίσιο της ημέρας. Αυτό πολλές δεν τηρείται λόγο ότι ένα μεγάλο ποσοστό αυτών των ανθρώπων έχουν γεροντική άνοια.
+
+
+
 
 Temporal:
 
@@ -64,6 +68,7 @@ Safety-Critical: Δεν έχει κάποια επικινδυνότητα η σ
 The nature of the Content: Φωνητική εντολή, κουμπιά, φωτάκια
 
 
+
 Contexts:
 
 Physical: Οικιακό περιβάλλον
@@ -75,7 +80,9 @@ Organisational:
 Υπάρχει η πιθανότητα κάποιοι λόγο άρνησης να μην επιθυμούν βοήθεια από ένα τέτοιου είδους τεχνούργημα
 
 
+
 Technologies:
+
 
 
 https://www.youtube.com/watch?v=fgrKiMjteW4 
@@ -91,6 +98,7 @@ Content: Arduino Uno, RTC DS3231 module, 16x2 LCD Display, Buzzer, Led(Red), Bre
 
 
 
+
 https://youtu.be/Ji8P6HPjjBg
 
 
@@ -100,7 +108,7 @@ Output: Οθόνη, ηχείο, 1 φωτάκι
 
 Communication:  οπτικοακουστική
 
-Content:Arduino Pro Mini, 16X2 Liquid Crystal Display, DS130, 32.768 KHz Crystal Oscillator, 3 Volt li-on battery with holder, Push buttons, Buzzer, Connecting wires, Power supply
+Content: Arduino Pro Mini, 16X2 Liquid Crystal Display, DS130, 32.768 KHz Crystal Oscillator, 3 Volt li-on battery with holder, Push buttons, Buzzer, Connecting wires, Power supply
 
 
 # 2nd Deliverable
