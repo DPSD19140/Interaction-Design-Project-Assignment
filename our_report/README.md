@@ -58,6 +58,8 @@ Organisational:
 
 Technologies:
 https://www.youtube.com/watch?v=fgrKiMjteW4 
+
+
 Input: Κουμπιά
 Output: Οθόνη, ηχεία, φωτάκια
 Communication:  οπτικουαστικά
@@ -66,6 +68,8 @@ Content: Arduino Uno, RTC DS3231 module, 16x2 LCD Display, Buzzer, Led(Red), Bre
 
 
 https://youtu.be/Ji8P6HPjjBg
+
+
 Input: Κουμπιά
 Output: Οθόνη, ηχείο, 1 φωτάκι
 Communication:  οπτικοακουστική
