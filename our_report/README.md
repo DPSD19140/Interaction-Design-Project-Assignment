@@ -14,7 +14,7 @@ BRIEF: Θα πρέπει μέσα από το design μας να βοηθήσο�
 
 # 1st Deliverable
 
- ___PACT___
+<ins> PACT </ins>
 
 
 
