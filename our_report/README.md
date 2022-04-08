@@ -67,6 +67,7 @@ BRIEF: Θα πρέπει μέσα από το design μας να βοηθήσο�
 
 *CONTEXT*:
 <br>
+
 **Physical:** Οικιακό περιβάλλον <br>
 **Social:** Ατομική δραστηριότητα <br>
 **Organisational:** 
