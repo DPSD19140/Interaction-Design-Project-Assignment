@@ -55,7 +55,7 @@ Human Well Being - Emotion & Communication. Motive and Assist Users to Convey an
 - Frequency: Συχνή <br>
 - Duration:  Λίγα δευτερόλεπτα <br>
 - Continuity: καθημερινή χρήση-δραστηριότητα, η οποία μπορεί να χωρίζεται σε: πρωί, μεσημέρι, απόγευμα, βράδυ <br>
-- Response time: Άμεση αντίδραση μηχανής <br>
+- Response time: Άμεση αντίδραση μηχανής <br><br>
 **Cooperation:** Ατομική δραστηριότητα <br>
 **Complexity:** Εύκολο/ Απλό στη χρήση <br>
 **Safety-Critical:** Δεν έχει κάποια επικινδυνότητα η συγκεκριμένη δραστηριότητα <br>
