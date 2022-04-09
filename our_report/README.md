@@ -102,7 +102,12 @@ Human Well Being - Emotion & Communication. Motive and Assist Users to Convey an
 **Communication:**  οπτικοακουστική <br>
 **Content:** Arduino Pro Mini, 16X2 Liquid Crystal Display, DS130, 32.768 KHz Crystal Oscillator, 3 Volt li-on battery with holder, Push buttons, Buzzer, Connecting wires, Power supply
 
-
+<br>
+<br>
+<br>
+<strong><p>Πιο αναλυτικά, θέλουμε να φτιάξουμε ένα σύστημα στο  οποίο ο χρήστης να εισάγει τις ώρες και τις ημέρες που χρειάζεται να παίρνει την φαρμακευτική του αγωγή. Το σύστημα με τη σειρά του να τον ειδοποιεί τις κατάλληλες ώρες την εκάστοτε μέρα γι αυτή, βοηθώντας στην υπενθύμιση της στον χρήστη, κρατώντας τον αυτόνομο. </p></strong>
+<br>
+<br>
 # 2nd Deliverable
 
 
