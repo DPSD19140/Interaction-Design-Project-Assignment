@@ -126,12 +126,12 @@ Human Well Being - Emotion & Communication. Motive and Assist Users to Convey an
 <br>
 <br>
 
-![1](/Διαδραστική Σχεδίαση (Interaction Design)/omadiki_ergasia/information_architecture_.jpg)
+![1](/Desktop/images/information_architecture_.jpg)
 
 <br>
 <br>
 
-![2](/Διαδραστική Σχεδίαση (Interaction Design)\omadiki_ergasia/information_architecture.jpg)
+![2](/Desktop/images/information_architecture.jpg)
 
 ## User Interaction
 
