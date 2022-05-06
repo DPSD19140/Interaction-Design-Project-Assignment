@@ -126,12 +126,12 @@ Human Well Being - Emotion & Communication. Motive and Assist Users to Convey an
 <br>
 <br>
 
-![1](/Sxoli/images/information_architecture_.jpg)
+![1](/Sxoli/images/information_architecture_.jpg"san michel")
 
 <br>
 <br>
 
-![2](/Sxoli/images/information_architecture.jpg)
+![2](/Sxoli/images/information_architecture.jpg"sss")
 
 ## User Interaction
 
