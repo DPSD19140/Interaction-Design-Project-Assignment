@@ -126,7 +126,7 @@ Human Well Being - Emotion & Communication. Motive and Assist Users to Convey an
 <br>
 <br>
 
-![1](/Sxoli/images/information_architecture_.jpg)
+![1](https://github.com/DPSD19140/Interaction-Design-Project-Assignment/blob/main/information_architecture_.jpg)
 
 <br>
 <br>
