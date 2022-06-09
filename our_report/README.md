@@ -126,12 +126,12 @@ Human Well Being - Emotion & Communication. Motive and Assist Users to Convey an
 <br>
 <br>
 
-![1](https://github.com/DPSD19140/Interaction-Design-Project-Assignment/blob/main/information_architecture_.jpg)
+![1](https://github.com/DPSD19140/Interaction-Design-Project-Assignment/blob/main/icon_1.jpg)
 
 <br>
 <br>
 
-![2](https://github.com/DPSD19140/Interaction-Design-Project-Assignment/blob/main/information_architecture.jpg)
+![2](https://github.com/DPSD19140/Interaction-Design-Project-Assignment/blob/main/icon_2.jpg)
 
 ## User Interaction
 
