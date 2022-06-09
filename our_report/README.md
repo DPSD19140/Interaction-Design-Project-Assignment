@@ -171,7 +171,7 @@ Human Well Being - Emotion & Communication. Motive and Assist Users to Convey an
 <ins>1η διάσταση</ins>
 Στο συγκεκριμένο σύστημα οι απαραίτητες πληροφορίες είναι κάτω από τις βασικές λειτουργίες του συστήματος που είναι οι ακόλουθες:
 <ol>
-<li> On/Off </li>
+<li> On/Off/Reset </li>
 <li> Ενδείξεις λυχνίας (Χαμηλή μπαταρία και Πλήρης μπαταρία)</li>
 <li> Ρύθμιση από τον χρήστη(Ώρα και Μέρα-ες) </li>
  </ol>
@@ -179,7 +179,7 @@ Human Well Being - Emotion & Communication. Motive and Assist Users to Convey an
 <ins>2η διάσταση</ins>
 Σε αυτή την περίπτωση οι οπτικές αναπαραστάσεις είναι σε κουμπιά τα οποία αποτυπώνουν βασικές λειτουργίες του συστήματος όπως:
 <ol>
-<li> On/Off </li>
+<li> On/Off/Reset </li>
 <li>  Μπαταρία συστήματος </li>
 <li> Ρύθμιση από τον χρήστη(Ώρα και Μέρα-ες) </li>
 </ol>
