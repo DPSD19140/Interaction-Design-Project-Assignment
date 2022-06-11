@@ -251,9 +251,16 @@ Human Well Being - Emotion & Communication. Motive and Assist Users to Convey an
 
 ![2](https://github.com/DPSD19140/Interaction-Design-Project-Assignment/blob/main/icon_3.jpg)
 
+<br>
+**ΜΑΚΕΤΑ**
+
+![3](https://github.com/DPSD19140/Interaction-Design-Project-Assignment/blob/main/icon_4.jpg)
+
+![4](https://github.com/DPSD19140/Interaction-Design-Project-Assignment/blob/main/icon_5.jpg)
 
 # Conclusions
 
+**VIDEO**
 
 # Sources
 - [Έρευνα](https://www.youtube.com/watch?v=fgrKiMjteW4)
