@@ -259,5 +259,5 @@ Human Well Being - Emotion & Communication. Motive and Assist Users to Convey an
 - [Έρευνα](https://www.youtube.com/watch?v=fgrKiMjteW4)
 - [Έρευνα](https://youtu.be/Ji8P6HPjjBg)
 - [Κατασκευή και κώδικας](https://www.tinkercad.com/things/l5T8CxJFsQO-chasy-s-budilnikom)
-- [Κατασκευή και κώδικας]( [https://www.tinkercad.com/things/l5T8CxJFsQO-chasy-s-budilnikom](https://circuitdigest.com/microcontroller-projects/arduino-medicine-reminder) )
+- [Κατασκευή και κώδικας](https://circuitdigest.com/microcontroller-projects/arduino-medicine-reminder)
 
